@@ -28,3 +28,57 @@ body {
   background-color: #222020;
   color: #fff;
 }
+
+.fonts {
+  text-align: center;
+  width: 100vw;
+}
+
+.fonts table {
+  margin: 0 auto;
+  padding: 5px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-color: #9fcede;
+}
+
+.fonts table tr td,
+.fonts table tr th {
+  padding: 5px 10px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-color: lightgray;
+}
+
+.fonts table tr td {
+  font-size: 14px;
+}
+
+.fonts table tr th {
+  color: #075974;
+}
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.plain {
+  font-weight: 400;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+}
