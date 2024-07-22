@@ -1,0 +1,30 @@
+body {
+  background-color: #f0ffff;
+}
+
+.colors {
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.light-blue {
+  background-color: #9fcede;
+  color: #000;
+}
+
+.easy-red {
+  background-color: #d73737;
+  color: #000;
+}
+
+.soft-green {
+  background-color: #7acb7a;
+  color: #000;
+}
+
+.heavy-black {
+  background-color: #222020;
+  color: #fff;
+}
